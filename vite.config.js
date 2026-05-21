@@ -25,6 +25,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/reactjs_004/',
+  base: '/reactjs-004/',
   
 })
